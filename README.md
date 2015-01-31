@@ -1,0 +1,2 @@
+# ROSE
+Calendar Management Utility
